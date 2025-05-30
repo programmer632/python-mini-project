@@ -39,7 +39,7 @@ You will be prompted to select which GUI you prefer (`pyqt5` or `tkinter`).
 
 ## 📺 Demo
 <p align="center">
-<img src="https://github.com/programmer632/python-mini-project/blob/main/Converter/How%20to%20use%20unit%20converter%20GUI.gif" width=20% height=20%>
+<img src="https://github.com/programmer632/python-mini-project/blob/main/Converter/How%20to%20use%20unit%20converter%20GUI.gif" width=70% height=70%>
 
 ## 🤖 Author
 [Alen Senson](https://github.com/AlenSenson)
