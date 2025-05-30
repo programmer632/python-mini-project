@@ -5,7 +5,6 @@
 # Converter
 
 <p align="center">
-<img src="https://github.com/AlenSenson/python-mini-project/blob/main/Converter/images.png" width=20% height=20%>
 <img src="https://github.com/programmer632/python-mini-project/blob/main/Converter/How%20to%20use%20unit%20converter%20GUI.gif" width=20% height=20%>
 
 
